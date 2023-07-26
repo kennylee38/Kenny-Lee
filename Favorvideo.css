@@ -1,0 +1,14 @@
+body {
+  font-family: Verdana, sans-serif;
+  margin: 0; color: blue;
+}
+body {
+  background-color: lightblue;
+}
+
+
+* {
+  box-sizing: border-box;
+}
+
+
